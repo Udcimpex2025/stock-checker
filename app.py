@@ -8,21 +8,22 @@ data = pd.read_csv("stock.csv")
 st.title("📦 UDC STOCK CHECK APP")
 
 # Input from user
-item_code = st.text_input("Enter Item Details")
+item_code = st.text_input("Enter Item Details").strip()
 
 if item_code:
+    # Case-insensitive partial match
     result = data[data['Item Details'].astype(str).str.contains(item_code, case=False, na=False)]
 
     if not result.empty:
-        qty = result.iloc[0]['Qty.']
+        item_name = result.iloc[0]['Item Details']
+        qty = float(result.iloc[0]['Qty.'])  # Convert to float to allow decimals
         unit = result.iloc[0]['Unit']
-        st.success(f"Stock: {qty} {unit}")
 
-        # Check for low stock
-        try:
-            if float(qty) <= 15:
-                st.warning("🔔 Please check in WhatsApp group. Stock is low!")
-        except:
-            st.warning("⚠️ Unable to evaluate stock quantity.")
+        # Show full item and stock
+        st.success(f"{item_name}\n\nStock: {qty} {unit}")
+
+        # Warning if stock is low
+        if qty <= 15:
+            st.warning("🔔 Please check in WhatsApp group. Stock is low!")
     else:
-        st.error("Item not found")
+        st.error("❌ Item not found.")
