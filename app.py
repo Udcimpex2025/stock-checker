@@ -5,7 +5,7 @@ import pandas as pd
 data = pd.read_csv("stock.csv")
 
 # App title
-st.title("📦 UDC STOCK")
+st.title("📦 UDC STOCK APP")
 
 # Input from user
 item_code = st.text_input("Enter Item Details").strip()
