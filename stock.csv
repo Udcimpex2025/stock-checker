@@ -41,9 +41,9 @@ Item Details,Qty.,Unit
          Alfa Roll 3707-6,18.0000,    ROLL
          Alfa Roll 3707-7,64.0000,    ROLL
          Alfa Roll 3708-1,57.0000,    ROLL
-         Alfa Roll 3708-2,91.0000,    ROLL
+         Alfa Roll 3708-2,88.0000,    ROLL
          Alfa Roll 3708-3,27.0000,    ROLL
-         Alfa Roll 3708-4,27.0000,    ROLL
+         Alfa Roll 3708-4,26.0000,    ROLL
          Alfa Roll 3709-1,46.0000,    ROLL
          Alfa Roll 3709-2,80.0000,    ROLL
          Alfa Roll 3709-3,16.0000,    ROLL
@@ -253,7 +253,7 @@ Item Details,Qty.,Unit
          F-FE2002,115.0000,    ROLL
          F-FE2004,88.0000,    ROLL
          F-FE3001,31.0000,    ROLL
-         F-FE3005,66.0000,    ROLL
+         F-FE3005,63.0000,    ROLL
          F-FG8004,60.0000,    ROLL
          F-FG8014,68.0000,    ROLL
          F-FT1001,101.0000,    ROLL
@@ -264,7 +264,7 @@ Item Details,Qty.,Unit
          F-FV5005,117.0000,    ROLL
          F-GA4010,46.0000,    ROLL
          F-GA4012,91.0000,    ROLL
-         F-HM2004,10.0000,    ROLL
+         F-HM2004,7.0000,    ROLL
          F-HM3002,70.0000,    ROLL
          F-HM3003,72.0000,    ROLL
          F-HM3004,67.0000,    ROLL
@@ -482,7 +482,7 @@ Item Details,Qty.,Unit
          Beta 1103-4,52.0000,    ROLL
          Beta 1103-5,112.0000,    ROLL
          Beta 1103-6,29.0000,    ROLL
-         Beta 1104-1,156.0000,    ROLL
+         Beta 1104-1,155.0000,    ROLL
          Beta 1104-2,91.0000,    ROLL
          Beta 1104-3,206.0000,    ROLL
          Beta 1104-4,154.0000,    ROLL
@@ -529,7 +529,7 @@ Item Details,Qty.,Unit
          Beta 1111-3,17.0000,    ROLL
          Beta 1111-4,42.0000,    ROLL
          Beta 1111-5,8.0000,    ROLL
-         Beta 1112-1,233.0000,    ROLL
+         Beta 1112-1,149.0000,    ROLL
          Beta 1112-2,345.0000,    ROLL
          Beta 1112-3,209.0000,    ROLL
          Beta 1112-4,138.0000,    ROLL
@@ -650,7 +650,7 @@ Item Details,Qty.,Unit
          Bumble Bee Roll F-MD5003,4.0000,    ROLL
          Bumble Bee Roll F-MD5004,2.0000,    ROLL
          Bumble Bee Roll F-MD6001,0.0000,    ROLL
-         Bumble Bee Roll F-MD6002,17.0000,    ROLL
+         Bumble Bee Roll F-MD6002,16.0000,    ROLL
          Bumble Bee Roll F-MD6003,27.0000,    ROLL
          Bumble Bee Roll F-MD7001,10.0000,    ROLL
          Bumble Bee Roll F-MD7002,10.0000,    ROLL
@@ -1577,7 +1577,7 @@ Item Details,Qty.,Unit
          F-CA7011,92.0000,    ROLL
          F-DH7006,104.0000,    ROLL
          F-DH8009,119.0000,    ROLL
-         F-FE7006,34.0000,    ROLL
+         F-FE7006,33.0000,    ROLL
          F-FG3001,64.0000,    ROLL
          F-FG3003,57.0000,    ROLL
          F-FG3005,67.0000,    ROLL
@@ -2091,9 +2091,9 @@ Item Details,Qty.,Unit
          Steel Wallpaper Roll-MR643705,9.0000,    ROLL
          Steel Wallpaper Roll-VE-45004,31.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3011,50.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3015,88.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3016,28.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3017,103.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3015,85.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3016,26.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3017,101.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3021,17.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3022,1.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3024,45.0000,    ROLL
@@ -2110,7 +2110,7 @@ Item Details,Qty.,Unit
          Tanishq Wallpaper Roll-TQ3063,37.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3065,8.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3066,3.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3071,2.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3071,0.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3073,0.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3074,20.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3076,64.0000,    ROLL
@@ -2126,11 +2126,11 @@ Item Details,Qty.,Unit
          Tanishq Wallpaper Roll-TQ3703,0.0000,    ROLL
          Terra-43800,0.0000,    ROLL
          Terra-43801,32.0000,    ROLL
-         Terra-43802,28.0000,    ROLL
+         Terra-43802,25.0000,    ROLL
          Terra-43803,25.0000,    ROLL
          Terra-43806,19.0000,    ROLL
          Terra-43808,25.0000,    ROLL
-         Terra-43809,23.0000,    ROLL
+         Terra-43809,22.0000,    ROLL
          Terra-43810,8.0000,    ROLL
          Terra-43815,6.0000,    ROLL
          Terra-43816,8.0000,    ROLL
