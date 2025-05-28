@@ -1,11 +1,16 @@
 import streamlit as st
 import pandas as pd
+from PIL import Image
 
-# Load CSV from same folder
-data = pd.read_csv("stock.csv")
+# Show logo at the top
+logo = Image.open("udc-homes-logo.PNG")
+st.image(logo, width=120)
 
 # App title
 st.title("📦 UDC STOCK APP")
+
+# Load CSV from same folder
+data = pd.read_csv("stock.csv")
 
 # Input from user
 item_code = st.text_input("Enter Item Details").strip()
