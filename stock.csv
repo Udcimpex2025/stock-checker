@@ -5,10 +5,10 @@ Item Details,Qty.,Unit
          Alfa Roll 3700-4,13.0000,    ROLL
          Alfa Roll 3700-5,35.0000,    ROLL
          Alfa Roll 3700-6,33.0000,    ROLL
-         Alfa Roll 3701-1,158.0000,    ROLL
+         Alfa Roll 3701-1,157.0000,    ROLL
          Alfa Roll 3701-2,516.0000,    ROLL
          Alfa Roll 3701-3,242.0000,    ROLL
-         Alfa Roll 3701-4,285.0000,    ROLL
+         Alfa Roll 3701-4,276.0000,    ROLL
          Alfa Roll 3701-5,167.0000,    ROLL
          Alfa Roll 3701-6,90.0000,    ROLL
          Alfa Roll 3702-1,54.0000,    ROLL
@@ -114,9 +114,9 @@ Item Details,Qty.,Unit
          PT-VE8706,98.0000,    ROLL
          SG-GG6003,50.0000,    ROLL
          SG-GG7004,79.0000,    ROLL
-         SG-GG8003,20.0000,    ROLL
+         SG-GG8003,0.0000,    ROLL
          SG-KR1704,63.0000,    ROLL
-         SG-KR1705,37.0000,    ROLL
+         SG-KR1705,0.0000,    ROLL
          SG-LA4001,54.0000,    ROLL
          SG-LA4002,50.0000,    ROLL
          SP-AN2003,25.0000,    ROLL
@@ -276,7 +276,7 @@ Item Details,Qty.,Unit
          F-MA2006,80.0000,    ROLL
          F-MA3001,21.0000,    ROLL
          F-MA3009,109.0000,    ROLL
-         F-MI1002,22.0000,    ROLL
+         F-MI1002,0.0000,    ROLL
          F-MI1004,20.0000,    ROLL
          F-MI8004,99.0000,    ROLL
          F-MY8008,54.0000,    ROLL
@@ -391,7 +391,7 @@ Item Details,Qty.,Unit
          F-ST4003,135.0000,    ROLL
          F-ST8002,64.0000,    ROLL
          F-SY6004,49.0000,    ROLL
-         F-VA5003,11.0000,    ROLL
+         F-VA5003,0.0000,    ROLL
          F-WI1001,40.0000,    ROLL
          F-WI1003,67.0000,    ROLL
          F-WI2002,49.0000,    ROLL
@@ -464,8 +464,8 @@ Item Details,Qty.,Unit
          SP-VE6108,51.0000,    ROLL
          SP-VE6206,35.0000,    ROLL
          Beta 1101-1,179.0000,    ROLL
-         Beta 1101-2,137.0000,    ROLL
-         Beta 1101-3,272.0000,    ROLL
+         Beta 1101-2,135.0000,    ROLL
+         Beta 1101-3,270.0000,    ROLL
          Beta 1101-4,116.0000,    ROLL
          Beta 1101-5,58.0000,    ROLL
          Beta 1101-6,64.0000,    ROLL
@@ -478,11 +478,11 @@ Item Details,Qty.,Unit
          Beta 1102-6,3.0000,    ROLL
          Beta 1103-1,25.0000,    ROLL
          Beta 1103-2,44.0000,    ROLL
-         Beta 1103-3,29.0000,    ROLL
+         Beta 1103-3,28.0000,    ROLL
          Beta 1103-4,52.0000,    ROLL
          Beta 1103-5,112.0000,    ROLL
          Beta 1103-6,29.0000,    ROLL
-         Beta 1104-1,141.0000,    ROLL
+         Beta 1104-1,140.0000,    ROLL
          Beta 1104-2,76.0000,    ROLL
          Beta 1104-3,197.0000,    ROLL
          Beta 1104-4,122.0000,    ROLL
@@ -507,17 +507,17 @@ Item Details,Qty.,Unit
          Beta 1107-3,35.0000,    ROLL
          Beta 1107-4,39.0000,    ROLL
          Beta 1107-5,36.0000,    ROLL
-         Beta 1108-1,30.0000,    ROLL
+         Beta 1108-1,29.0000,    ROLL
          Beta 1108-2,48.0000,    ROLL
          Beta 1108-3,36.0000,    ROLL
          Beta 1108-4,4.0000,    ROLL
          Beta 1108-5,32.0000,    ROLL
-         Beta 1108-6,39.0000,    ROLL
+         Beta 1108-6,38.0000,    ROLL
          Beta 1109-1,93.0000,    ROLL
          Beta 1109-2,103.0000,    ROLL
          Beta 1109-3,36.0000,    ROLL
          Beta 1109-4,46.0000,    ROLL
-         Beta 1110-1,132.0000,    ROLL
+         Beta 1110-1,129.0000,    ROLL
          Beta 1110-2,102.0000,    ROLL
          Beta 1110-3,152.0000,    ROLL
          Beta 1110-4,89.0000,    ROLL
@@ -529,7 +529,7 @@ Item Details,Qty.,Unit
          Beta 1111-3,17.0000,    ROLL
          Beta 1111-4,42.0000,    ROLL
          Beta 1111-5,8.0000,    ROLL
-         Beta 1112-1,125.0000,    ROLL
+         Beta 1112-1,119.0000,    ROLL
          Beta 1112-2,336.0000,    ROLL
          Beta 1112-3,200.0000,    ROLL
          Beta 1112-4,129.0000,    ROLL
@@ -606,7 +606,7 @@ Item Details,Qty.,Unit
          Bumble Bee Roll F-MD10003,54.0000,    ROLL
          Bumble Bee Roll F-MD10004,52.0000,    ROLL
          Bumble Bee Roll F-MD1001A,0.0000,    ROLL
-         Bumble Bee Roll F-MD1002A,7.0000,    ROLL
+         Bumble Bee Roll F-MD1002A,1.0000,    ROLL
          Bumble Bee Roll F-MD11001,4.0000,    ROLL
          Bumble Bee Roll F-MD11002,9.0000,    ROLL
          Bumble Bee Roll F-MD11003,13.0000,    ROLL
@@ -638,7 +638,7 @@ Item Details,Qty.,Unit
          Bumble Bee Roll F-MD13005,31.0000,    ROLL
          Bumble Bee Roll F-MD13006,41.0000,    ROLL
          Bumble Bee Roll F-MD2001,0.0000,    ROLL
-         Bumble Bee Roll F-MD2002,10.0000,    ROLL
+         Bumble Bee Roll F-MD2002,1.0000,    ROLL
          Bumble Bee Roll F-MD3001,0.0000,    ROLL
          Bumble Bee Roll F-MD3003,3.0000,    ROLL
          Bumble Bee Roll F-MD4001,13.0000,    ROLL
@@ -795,7 +795,7 @@ Item Details,Qty.,Unit
          F-WH7002,41.0000,    ROLL
          F-WH7004,23.0000,    ROLL
          F-WI6004,54.0000,    ROLL
-         F-WI6007,26.0000,    ROLL
+         F-WI6007,0.0000,    ROLL
          F-WI7003,21.0000,    ROLL
          PT-AS10403,29.0000,    ROLL
          PT-AS10504,24.0000,    ROLL
@@ -1120,7 +1120,7 @@ Item Details,Qty.,Unit
          F-OR2003,41.0000,    ROLL
          F-OR2004,23.0000,    ROLL
          F-OR8004,34.0000,    ROLL
-         F-RE1002,96.0000,    ROLL
+         F-RE1002,93.0000,    ROLL
          F-RE4001,28.0000,    ROLL
          F-RE4009,22.0000,    ROLL
          F-ST1002,39.0000,    ROLL
@@ -1578,7 +1578,7 @@ Item Details,Qty.,Unit
          F-DH7006,101.0000,    ROLL
          F-DH8009,119.0000,    ROLL
          F-FE7006,32.0000,    ROLL
-         F-FG3001,61.0000,    ROLL
+         F-FG3001,59.0000,    ROLL
          F-FG3003,57.0000,    ROLL
          F-FG3005,67.0000,    ROLL
          F-FG3008,66.0000,    ROLL
@@ -1593,7 +1593,7 @@ Item Details,Qty.,Unit
          F-FV2002,79.0000,    ROLL
          F-FV2003,77.0000,    ROLL
          F-FV2004,56.0000,    ROLL
-         F-FV2009,64.0000,    ROLL
+         F-FV2009,66.0000,    ROLL
          F-FV5003,61.0000,    ROLL
          F-GA3007,73.0000,    ROLL
          F-GA3008,68.0000,    ROLL
@@ -1624,7 +1624,7 @@ Item Details,Qty.,Unit
          PT-VE13604,50.0000,    ROLL
          PT-VE14302,67.0000,    ROLL
          PT-VE14305,84.0000,    ROLL
-         PT-VE14403,72.0000,    ROLL
+         PT-VE14403,0.0000,    ROLL
          PT-VE14605,75.0000,    ROLL
          SP-IG6002,34.0000,    ROLL
          SP-IG6005,73.0000,    ROLL
@@ -1698,7 +1698,7 @@ Item Details,Qty.,Unit
          NR-111,108.0000,    ROLL
          NR-112,63.0000,    ROLL
          NR-113,94.0000,    ROLL
-         NR-114,82.0000,    ROLL
+         NR-114,81.0000,    ROLL
          NR-115,123.0000,    ROLL
          NR-116,90.0000,    ROLL
          NR-117,42.0000,    ROLL
@@ -1795,7 +1795,7 @@ Item Details,Qty.,Unit
          Silk-33386,44.0000,    ROLL
          Silk-33387,31.0000,    ROLL
          Silk-33392,50.0000,    ROLL
-         Silk-33393,10.0000,    ROLL
+         Silk-33393,8.0000,    ROLL
          Silk-33394,48.0000,    ROLL
          Silk-33395,35.0000,    ROLL
          Silk-33396,57.0000,    ROLL
@@ -2092,7 +2092,7 @@ Item Details,Qty.,Unit
          Steel Wallpaper Roll-VE-45004,31.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3011,57.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3015,85.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3016,31.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3016,28.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3017,102.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3021,17.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3022,15.0000,    ROLL
@@ -2108,7 +2108,7 @@ Item Details,Qty.,Unit
          Tanishq Wallpaper Roll-TQ3052,107.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3054,21.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3063,37.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3065,20.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3065,17.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3066,11.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3071,32.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3073,0.0000,    ROLL
