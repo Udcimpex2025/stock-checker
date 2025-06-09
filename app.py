@@ -9,6 +9,16 @@ st.image(logo, width=120)
 # App title
 st.title("📦 UDC STOCK APP")
 
+# Styled stock update note
+st.markdown(
+    """
+    <div style='background-color:#fff3cd; padding:10px; border-radius:10px; border-left:6px solid #ffc107;'>
+        🕒 <strong>Note:</strong> The stock shown here is <strong>updated every morning at 11:00 AM</strong>.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
 # Load CSV from same folder
 data = pd.read_csv("stock.csv")
 
@@ -24,8 +34,16 @@ if item_code:
         qty = float(result.iloc[0]['Qty.'])  # Convert to float to allow decimals
         unit = result.iloc[0]['Unit']
 
-        # Show full item and stock
-        st.success(f"{item_name}\n\nStock: {qty} {unit}")
+        # Use columns for clean layout
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.subheader("Item")
+            st.info(item_name)
+
+        with col2:
+            st.subheader("Stock")
+            st.metric(label="Quantity", value=f"{qty} {unit}")
 
         # Warning if stock is low
         if qty <= 15:
