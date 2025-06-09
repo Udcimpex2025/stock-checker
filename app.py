@@ -9,15 +9,8 @@ st.image(logo, width=120)
 # App title
 st.title("📦 UDC STOCK APP")
 
-# Styled stock update note
-st.markdown(
-    """
-    <div style='background-color:#fff3cd; padding:10px; border-radius:10px; border-left:6px solid #ffc107;'>
-        🕒 <strong>Note:</strong> The stock shown here is <strong>updated every morning at 11:00 AM</strong>.
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+# Stock update note
+st.caption("🕒 *Note: The stock shown here is updated every morning at 11:00 AM*")
 
 # Load CSV from same folder
 data = pd.read_csv("stock.csv")
