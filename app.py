@@ -7,7 +7,7 @@ logo = Image.open("udc-homes-logo.PNG")
 st.image(logo, width=120)
 
 # App title
-st.title("📦 UDC STOCK APP")
+st.title("📦 UDC STOCK")
 
 # Stock update note
 st.caption("🕒 *Note: The stock shown here is updated every morning at 11:00 AM*")
