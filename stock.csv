@@ -7,7 +7,7 @@ Item Details,Qty.,Unit
          Alfa Roll 3700-6,30.0000,    ROLL
          Alfa Roll 3701-1,158.0000,    ROLL
          Alfa Roll 3701-2,513.0000,    ROLL
-         Alfa Roll 3701-3,242.0000,    ROLL
+         Alfa Roll 3701-3,240.0000,    ROLL
          Alfa Roll 3701-4,276.0000,    ROLL
          Alfa Roll 3701-5,167.0000,    ROLL
          Alfa Roll 3701-6,90.0000,    ROLL
@@ -36,7 +36,7 @@ Item Details,Qty.,Unit
          Alfa Roll 3707-1,127.0000,    ROLL
          Alfa Roll 3707-2,0.0000,    ROLL
          Alfa Roll 3707-3,22.0000,    ROLL
-         Alfa Roll 3707-4,345.0000,    ROLL
+         Alfa Roll 3707-4,344.0000,    ROLL
          Alfa Roll 3707-5,29.0000,    ROLL
          Alfa Roll 3707-6,9.0000,    ROLL
          Alfa Roll 3707-7,64.0000,    ROLL
@@ -79,7 +79,7 @@ Item Details,Qty.,Unit
          Alfa Roll 3715-3,36.0000,    ROLL
          Alfa Roll 3715-4,28.0000,    ROLL
          Alfa Roll 3715-5,24.0000,    ROLL
-         Alfa Roll 3716-1,95.0000,    ROLL
+         Alfa Roll 3716-1,6.0000,    ROLL
          Alfa Roll 3716-2,62.0000,    ROLL
          Alfa Roll 3716-3,62.0000,    ROLL
          Alfa Roll 3716-4,27.0000,    ROLL
@@ -285,7 +285,7 @@ Item Details,Qty.,Unit
          F-RE2005,104.0000,    ROLL
          F-RE4002,47.0000,    ROLL
          F-ST1003,85.0000,    ROLL
-         F-ST1005,58.0000,    ROLL
+         F-ST1005,57.0000,    ROLL
          F-ST3001,74.0000,    ROLL
          F-ST3002,46.0000,    ROLL
          F-ST3003,63.0000,    ROLL
@@ -469,7 +469,7 @@ Item Details,Qty.,Unit
          Beta 1101-4,116.0000,    ROLL
          Beta 1101-5,52.0000,    ROLL
          Beta 1101-6,64.0000,    ROLL
-         Beta 1101-7,38.0000,    ROLL
+         Beta 1101-7,34.0000,    ROLL
          Beta 1102-1,4.0000,    ROLL
          Beta 1102-2,0.0000,    ROLL
          Beta 1102-3,14.0000,    ROLL
@@ -482,7 +482,7 @@ Item Details,Qty.,Unit
          Beta 1103-4,52.0000,    ROLL
          Beta 1103-5,112.0000,    ROLL
          Beta 1103-6,29.0000,    ROLL
-         Beta 1104-1,139.0000,    ROLL
+         Beta 1104-1,137.0000,    ROLL
          Beta 1104-2,76.0000,    ROLL
          Beta 1104-3,197.0000,    ROLL
          Beta 1104-4,122.0000,    ROLL
@@ -518,11 +518,11 @@ Item Details,Qty.,Unit
          Beta 1109-3,36.0000,    ROLL
          Beta 1109-4,45.0000,    ROLL
          Beta 1110-1,129.0000,    ROLL
-         Beta 1110-2,96.0000,    ROLL
-         Beta 1110-3,145.0000,    ROLL
+         Beta 1110-2,90.0000,    ROLL
+         Beta 1110-3,140.0000,    ROLL
          Beta 1110-4,89.0000,    ROLL
          Beta 1110-5,0.0000,    ROLL
-         Beta 1110-6,30.0000,    ROLL
+         Beta 1110-6,29.0000,    ROLL
          Beta 1110-7,0.0000,    ROLL
          Beta 1111-1,5.0000,    ROLL
          Beta 1111-2,31.0000,    ROLL
@@ -984,7 +984,7 @@ Item Details,Qty.,Unit
          EL3794,2.0000,    ROLL
          EL3806,10.0000,    ROLL
          EL3808,50.0000,    ROLL
-         Enigma EN-1001,114.0000,    ROLL
+         Enigma EN-1001,112.0000,    ROLL
          Enigma EN-1002,263.0000,    ROLL
          Enigma EN-1003,128.0000,    ROLL
          Enigma EN-1004,107.0000,    ROLL
@@ -995,7 +995,7 @@ Item Details,Qty.,Unit
          Enigma EN-1009,124.0000,    ROLL
          Enigma EN-1010,65.0000,    ROLL
          Enigma EN-1011,114.0000,    ROLL
-         Enigma EN-1012,123.0000,    ROLL
+         Enigma EN-1012,122.0000,    ROLL
          Enigma EN-1013,206.0000,    ROLL
          Enigma EN-1014,69.0000,    ROLL
          Enigma EN-1015,90.0000,    ROLL
@@ -1228,7 +1228,7 @@ Item Details,Qty.,Unit
          Garden Wallpaper Roll SP-WG5005,14.0000,    ROLL
          Garden Wallpaper Roll SP-WG6001,52.0000,    ROLL
          Garden Wallpaper Roll SP-WG6002,0.0000,    ROLL
-         Garden Wallpaper Roll SP-WG6003,17.0000,    ROLL
+         Garden Wallpaper Roll SP-WG6003,14.0000,    ROLL
          Garden Wallpaper Roll SP-WG6004,15.0000,    ROLL
          Garden Wallpaper Roll SP-WG6005,0.0000,    ROLL
          Garden Wallpaper Roll SP-WG6006,49.0000,    ROLL
@@ -1698,7 +1698,7 @@ Item Details,Qty.,Unit
          NR-111,108.0000,    ROLL
          NR-112,63.0000,    ROLL
          NR-113,94.0000,    ROLL
-         NR-114,78.0000,    ROLL
+         NR-114,77.0000,    ROLL
          NR-115,123.0000,    ROLL
          NR-116,90.0000,    ROLL
          NR-117,42.0000,    ROLL
@@ -1722,7 +1722,7 @@ Item Details,Qty.,Unit
          NR-135,141.0000,    ROLL
          NR-136,50.0000,    ROLL
          NR-137,59.0000,    ROLL
-         NR-138,82.0000,    ROLL
+         NR-138,80.0000,    ROLL
          NR-139,133.0000,    ROLL
          NR-140,33.0000,    ROLL
          NR-141,119.0000,    ROLL
@@ -1909,7 +1909,7 @@ Item Details,Qty.,Unit
          SP-VE5609,120.0000,    ROLL
          SWD-E-04,39.0000,    ROLL
          CAS202,52.0000,    ROLL
-         CAS401,71.0000,    ROLL
+         CAS401,69.0000,    ROLL
          DMW06Np05,17.0000,    ROLL
          PT-AS6505,50.0000,    ROLL
          PT-AS8502,52.0000,    ROLL
@@ -2092,7 +2092,7 @@ Item Details,Qty.,Unit
          Steel Wallpaper Roll-VE-45004,31.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3011,52.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3015,85.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3016,28.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3016,25.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3017,100.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3021,14.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3022,15.0000,    ROLL
@@ -2144,7 +2144,7 @@ Item Details,Qty.,Unit
          Terra-43832,13.0000,    ROLL
          Terra-43833,9.0000,    ROLL
          Terra-43835,2.0000,    ROLL
-         Terra-43838,12.0000,    ROLL
+         Terra-43838,10.0000,    ROLL
          Terra-43839,13.0000,    ROLL
          Terra-43841,11.0000,    ROLL
          Terra-43842,24.0000,    ROLL
@@ -2159,7 +2159,7 @@ Item Details,Qty.,Unit
          Terra-43855,8.0000,    ROLL
          Terra-43856,22.0000,    ROLL
          Terra-43858,14.0000,    ROLL
-         Terra-43859,16.0000,    ROLL
+         Terra-43859,13.0000,    ROLL
          Terra-43870,34.0000,    ROLL
          Terra-43871,16.0000,    ROLL
          Terra-43872,8.0000,    ROLL
@@ -2172,7 +2172,7 @@ Item Details,Qty.,Unit
          Terra-43882,7.0000,    ROLL
          Terra-43883,8.0000,    ROLL
          Terra-43885,6.0000,    ROLL
-         Terra-43888,13.0000,    ROLL
+         Terra-43888,3.0000,    ROLL
          Customized Painting,4.2630,    Sq Mtr
          F-AE2003,9.0000,    ROLL
          F-AE2004,6.0000,    ROLL
