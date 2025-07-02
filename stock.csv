@@ -5,7 +5,7 @@ Item Details,Qty.,Unit
          Alfa Roll 3700-4,13.0000,    ROLL
          Alfa Roll 3700-5,35.0000,    ROLL
          Alfa Roll 3700-6,30.0000,    ROLL
-         Alfa Roll 3701-1,136.0000,    ROLL
+         Alfa Roll 3701-1,140.0000,    ROLL
          Alfa Roll 3701-2,486.0000,    ROLL
          Alfa Roll 3701-3,214.0000,    ROLL
          Alfa Roll 3701-4,260.0000,    ROLL
@@ -35,8 +35,8 @@ Item Details,Qty.,Unit
          Alfa Roll 3705-5,31.0000,    ROLL
          Alfa Roll 3707-1,71.0000,    ROLL
          Alfa Roll 3707-2,0.0000,    ROLL
-         Alfa Roll 3707-3,9.0000,    ROLL
-         Alfa Roll 3707-4,331.0000,    ROLL
+         Alfa Roll 3707-3,3.0000,    ROLL
+         Alfa Roll 3707-4,332.0000,    ROLL
          Alfa Roll 3707-5,29.0000,    ROLL
          Alfa Roll 3707-6,6.0000,    ROLL
          Alfa Roll 3707-7,64.0000,    ROLL
@@ -464,8 +464,8 @@ Item Details,Qty.,Unit
          SP-VE6108,51.0000,    ROLL
          SP-VE6206,35.0000,    ROLL
          Beta 1101-1,152.0000,    ROLL
-         Beta 1101-2,128.0000,    ROLL
-         Beta 1101-3,241.0000,    ROLL
+         Beta 1101-2,129.0000,    ROLL
+         Beta 1101-3,254.0000,    ROLL
          Beta 1101-4,107.0000,    ROLL
          Beta 1101-5,46.0000,    ROLL
          Beta 1101-6,64.0000,    ROLL
@@ -536,7 +536,7 @@ Item Details,Qty.,Unit
          Beta 1112-5,96.0000,    ROLL
          Beta 1112-6,74.0000,    ROLL
          Beta 1112-7,120.0000,    ROLL
-         Beta 1112-8,57.0000,    ROLL
+         Beta 1112-8,63.0000,    ROLL
          Beta 1113-1,57.0000,    ROLL
          Beta 1113-2,12.0000,    ROLL
          Beta 1113-3,222.0000,    ROLL
@@ -546,7 +546,7 @@ Item Details,Qty.,Unit
          Beta 1113-7,29.0000,    ROLL
          Beta 1113-8,1.0000,    ROLL
          Beta 1113-9,13.0000,    ROLL
-         Beta Catalog (Big),80.0000,    Pcs.
+         Beta Catalog (Big),81.0000,    Pcs.
          Beta Catalog (Small),93.0000,    Pcs.
          PT-AS5505,47.0000,    ROLL
          PT-AS5607,33.0000,    ROLL
@@ -1730,7 +1730,7 @@ Item Details,Qty.,Unit
          F-CA2004,81.0000,    ROLL
          F-CA4004,74.0000,    ROLL
          F-CA7010,60.0000,    ROLL
-         F-DH2001,43.0000,    ROLL
+         F-DH2001,46.0000,    ROLL
          F-DH2005,102.0000,    ROLL
          F-DH3004,55.0000,    ROLL
          F-DH4004,50.0000,    ROLL
@@ -1987,11 +1987,11 @@ Item Details,Qty.,Unit
          SP-DG5003,88.0000,    ROLL
          SP-DG6003,70.0000,    ROLL
          SP-DG6005,43.0000,    ROLL
-         SP-DG7007,63.0000,    ROLL
+         SP-DG7007,64.0000,    ROLL
          SP-DG7009,86.0000,    ROLL
          SP-HA2004,33.0000,    ROLL
          SP-HA3003,50.0000,    ROLL
-         SP-HA3005,64.0000,    ROLL
+         SP-HA3005,69.0000,    ROLL
          SP-HA5004,0.0000,    ROLL
          SP-HA5006,70.0000,    ROLL
          SP-LB2003,46.0000,    ROLL
@@ -1999,7 +1999,7 @@ Item Details,Qty.,Unit
          SP-LB3005,86.0000,    ROLL
          SP-LB5005,88.0000,    ROLL
          SP-LB6005,90.0000,    ROLL
-         SP-LB7001,50.0000,    ROLL
+         SP-LB7001,51.0000,    ROLL
          SP-MT1004,66.0000,    ROLL
          SP-MT2004,0.0000,    ROLL
          SP-NL1001,0.0000,    ROLL
@@ -2105,7 +2105,7 @@ Item Details,Qty.,Unit
          Tanishq Wallpaper Roll-TQ3037,41.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3038,33.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3039,57.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3052,106.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3052,107.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3054,21.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3063,30.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3065,15.0000,    ROLL
@@ -2121,7 +2121,7 @@ Item Details,Qty.,Unit
          Tanishq Wallpaper Roll-TQ3092,23.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3093,0.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3095,11.0000,    ROLL
-         Tanishq Wallpaper Roll-TQ3106,8.0000,    ROLL
+         Tanishq Wallpaper Roll-TQ3106,15.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3117,36.0000,    ROLL
          Tanishq Wallpaper Roll-TQ3703,0.0000,    ROLL
          Terra-43800,7.0000,    ROLL
@@ -2129,7 +2129,7 @@ Item Details,Qty.,Unit
          Terra-43802,20.0000,    ROLL
          Terra-43803,22.0000,    ROLL
          Terra-43806,15.0000,    ROLL
-         Terra-43808,22.0000,    ROLL
+         Terra-43808,24.0000,    ROLL
          Terra-43809,22.0000,    ROLL
          Terra-43810,8.0000,    ROLL
          Terra-43815,6.0000,    ROLL
