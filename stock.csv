@@ -9,7 +9,7 @@ Item Details,Qty.,Unit
          Alfa Roll 3701-2,479.0000,    ROLL
          Alfa Roll 3701-3,214.0000,    ROLL
          Alfa Roll 3701-4,250.0000,    ROLL
-         Alfa Roll 3701-5,165.0000,    ROLL
+         Alfa Roll 3701-5,158.0000,    ROLL
          Alfa Roll 3701-6,84.0000,    ROLL
          Alfa Roll 3702-1,54.0000,    ROLL
          Alfa Roll 3702-2,60.0000,    ROLL
@@ -35,7 +35,7 @@ Item Details,Qty.,Unit
          Alfa Roll 3705-5,31.0000,    ROLL
          Alfa Roll 3707-1,71.0000,    ROLL
          Alfa Roll 3707-2,0.0000,    ROLL
-         Alfa Roll 3707-3,6.0000,    ROLL
+         Alfa Roll 3707-3,9.0000,    ROLL
          Alfa Roll 3707-4,331.0000,    ROLL
          Alfa Roll 3707-5,29.0000,    ROLL
          Alfa Roll 3707-6,4.0000,    ROLL
@@ -53,7 +53,7 @@ Item Details,Qty.,Unit
          Alfa Roll 3710-3,46.0000,    ROLL
          Alfa Roll 3710-4,53.0000,    ROLL
          Alfa Roll 3710-5,12.0000,    ROLL
-         Alfa Roll 3711-1,64.0000,    ROLL
+         Alfa Roll 3711-1,63.0000,    ROLL
          Alfa Roll 3711-2,11.0000,    ROLL
          Alfa Roll 3711-3,136.0000,    ROLL
          Alfa Roll 3711-4,2.0000,    ROLL
@@ -122,7 +122,7 @@ Item Details,Qty.,Unit
          SP-AN2003,25.0000,    ROLL
          SP-AN3003,31.0000,    ROLL
          SP-AN5006,96.0000,    ROLL
-         SP-AN6001,39.0000,    ROLL
+         SP-AN6001,35.0000,    ROLL
          SP-AN6004,44.0000,    ROLL
          SP-AN7002,44.0000,    ROLL
          SP-AN8004,51.0000,    ROLL
@@ -518,7 +518,7 @@ Item Details,Qty.,Unit
          Beta 1109-3,36.0000,    ROLL
          Beta 1109-4,45.0000,    ROLL
          Beta 1110-1,127.0000,    ROLL
-         Beta 1110-2,72.0000,    ROLL
+         Beta 1110-2,88.0000,    ROLL
          Beta 1110-3,110.0000,    ROLL
          Beta 1110-4,89.0000,    ROLL
          Beta 1110-5,0.0000,    ROLL
@@ -546,7 +546,7 @@ Item Details,Qty.,Unit
          Beta 1113-7,29.0000,    ROLL
          Beta 1113-8,1.0000,    ROLL
          Beta 1113-9,13.0000,    ROLL
-         Beta Catalog (Big),77.0000,    Pcs.
+         Beta Catalog (Big),76.0000,    Pcs.
          Beta Catalog (Small),93.0000,    Pcs.
          PT-AS5505,47.0000,    ROLL
          PT-AS5607,33.0000,    ROLL
@@ -873,7 +873,7 @@ Item Details,Qty.,Unit
          F-OR2002,87.0000,    ROLL
          F-OR3001,64.0000,    ROLL
          F-OR8012,53.0000,    ROLL
-         F-ST2002,103.0000,    ROLL
+         F-ST2002,100.0000,    ROLL
          F-ST2003,89.0000,    ROLL
          F-ST2004,100.0000,    ROLL
          F-ST2005,106.0000,    ROLL
@@ -1685,7 +1685,7 @@ Item Details,Qty.,Unit
          Nature 2 Wallpaper Roll 193813,0.0000,    ROLL
          Nature 2 Wallpaper Roll 193814,0.0000,    ROLL
          Nature 2 Wallpaper Roll 193815,2.0000,    ROLL
-         NR-101,102.0000,    ROLL
+         NR-101,99.0000,    ROLL
          NR-102,7.0000,    ROLL
          NR-103,47.0000,    ROLL
          NR-104,121.0000,    ROLL
@@ -1719,7 +1719,7 @@ Item Details,Qty.,Unit
          NR-132,3.0000,    ROLL
          NR-133,124.0000,    ROLL
          NR-134,155.0000,    ROLL
-         NR-135,140.0000,    ROLL
+         NR-135,138.0000,    ROLL
          NR-136,50.0000,    ROLL
          NR-137,58.0000,    ROLL
          NR-138,85.0000,    ROLL
@@ -1772,7 +1772,7 @@ Item Details,Qty.,Unit
          F-VA2001,86.0000,    ROLL
          F-VA4010,70.0000,    ROLL
          F-WH1002,78.0000,    ROLL
-         F-WH1003,61.0000,    ROLL
+         F-WH1003,57.0000,    ROLL
          F-WH3005,59.0000,    ROLL
          F-WI1004,103.0000,    ROLL
          F-WI4006,78.0000,    ROLL
