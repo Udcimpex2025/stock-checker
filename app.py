@@ -13,7 +13,8 @@ st.title("📦 UDC STOCK")
 st.caption("🕒 *Note: The stock shown here is updated every morning at 11:00 AM*")
 
 # Load CSV from same folder
-data = pd.read_csv("stock.csv")
+data = pd.read_csv("stock.csv", skipinitialspace=True, on_bad_lines='skip')
+
 
 # Input from user
 item_code = st.text_input("Enter Item Details").strip()
